@@ -96,7 +96,7 @@ Create email broadcasts for all contacts or a particular audience segment to kee
 
 Craft professional-looking emails and send them right away or schedule them for a later date.
 
-https://youtu.be/Mf60VoX9XB8
+https://youtu.be/ZRZv6fu7JIU
 
 **Here is what you can do with broadcasts**
 
