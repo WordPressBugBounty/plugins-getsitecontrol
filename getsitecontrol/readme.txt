@@ -2,7 +2,7 @@
 Contributors: getsitecontrol
 Tags: email marketing, email marketing plugin, popup maker, popup builder, popup contact form, popup plugin, exit popup plugin, newsletter, newsletter subscription form, newsletter plugin, lead generation, marketing automation, opt-in forms, survey maker, survey plugin
 Requires at least: 3.0.1
-Tested up to: 6.3
+Tested up to: 6.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,7 +26,7 @@ Create newsletter popups, announcement bars, promo banners, coupon boxes, survey
 Tag new subscribers based on their interests, send follow-ups, and keep them engaged using email marketing automations.
 
 
-https://youtu.be/reJ7uFqhl0I
+https://youtu.be/7H1yfN87dX0
 
 Works well with WooCommerce. Support is available 24/5 via live chat.
 
@@ -42,8 +42,6 @@ Works well with WooCommerce. Support is available 24/5 via live chat.
 Create pop-up widgets, inline forms, sticky bars, slide-ins, sidebars, and panels to engage with your website visitors.
 
 Explore the collection of templates for email opt-in forms, promo banners, coupons, and surveys. Pick one and customize it within minutes.
-
-https://youtu.be/YJzvozSDso0
 
 **Here is what you can do with widgets**
 
@@ -79,7 +77,7 @@ Build email marketing automations to convert your subscribers into customers on 
 
 Save time and enhance your ROI from email marketing.
 
-https://youtu.be/lkxMJWMLmTs
+https://youtu.be/YOV0bMm7JSU
 
 **Here is what you can do with automations**
 
@@ -96,7 +94,7 @@ Create email broadcasts for all contacts or a particular audience segment to kee
 
 Craft professional-looking emails and send them right away or schedule them for a later date.
 
-https://youtu.be/ZRZv6fu7JIU
+https://youtu.be/EfSIyTF74Eo
 
 **Here is what you can do with broadcasts**
 
